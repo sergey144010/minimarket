@@ -7,13 +7,7 @@
 
 5. Copy from clone folder (cloneFolder) in yii-application folder.
 
-6. Make OR
-
-composer require ramsey/uuid
-
-OR
-
-composer install
+6. Make composer require ramsey/uuid
 
 7. Apply migrate -> php /path/to/yii-application/yii migrate
 
