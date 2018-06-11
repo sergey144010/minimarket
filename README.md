@@ -5,7 +5,7 @@
 3. php /path/to/yii-application/init
 4. common/config/main-local.php change components['db']
 
-5. Copy from clone folder (cloneFolder) in yii-application folder.
+5. Copy and replace from clone folder (cloneFolder) in yii-application folder.
 
 6. Make composer require ramsey/uuid
 
