@@ -15,3 +15,5 @@
 Frontend: frontend/web/index.php?r=product/index
 
 Backend: backend/web/index.php?r=admin/index
+
+9. Create Category,Product,Vendor and Check Product
